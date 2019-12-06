@@ -16,26 +16,35 @@ Only for blocking ads on TV and personal learning
   [Original Post](URL 'https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=777441')
   
 - enter the address of router's ip in browser
+
 ![hashtabe2](images/enter-the-address-of-routers-ip-in-browser.jpg)
 - reset breed
+
 ![hashtabe2](images/reset-breed.jpg)
 - upload the firmware
+
 ![hashtabe2](images/upload-firmware.jpg)
 - update the firmware
+
 ![hashtabe2](images/update-firmware.jpg)
 - wait for router to restart
+
 ![hashtabe2](images/wait-for-router-to-restart.jpg)
   
 ### Set Router
   [Original Post](URL 'https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=777441')
   
 - connect Internet
+
 ![hashtabe2](images/connetc-Internet.jpg)
-- set protocol. [Attention!] Ip of router should be different from ip of modem。
+- set protocol. [Attention!] Ip of router should be different from ip of modem
+
 ![hashtabe2](images/set-protocol.jpg)
 - add custom source. [Version of fireware is 19.06, but it works only when version of custom source is 19.02 on my own router.]
+
 ![hastabe2](images/add-custom-source-1.jpg)
 ![hastabe2](images/add-custom-source-2.jpg)
+
 ```
 src/gz 19.02_core http://downloads.pangubox.com:6380/pandorabox/19.02/targets/ralink/mt7621/packages
 src/gz 19.02_base http://downloads.pangubox.com:6380/pandorabox/19.02/packages/mipsel_1004kc_dsp/base
